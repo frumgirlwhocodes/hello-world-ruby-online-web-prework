@@ -1,2 +1,1 @@
-$ ruby hello_world.ruby
-Hello world! 
+put "Hello World"
